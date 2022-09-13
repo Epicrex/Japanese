@@ -3,9 +3,9 @@ https://jisho.org
 
 |Kanji|English|Hiragana + Romanji
 |:-:|:-:|:-:
-|女|woman - female - female sex - female lover - girlfriend - mistress|おんな (o'n'na)
+|女|woman - female - female sex(gender) - female lover - girlfriend - mistress|おんな (o'n'na)
 |男|male - guy|(otoko)
-|子|child| = ko = child
+|子|child - young - young woman|こ (ko)
 |人|human being - person - people - man|
 |大|big - large|
 |小|small - little|
