@@ -2,6 +2,7 @@
 - Hiragana 
 - Katakana
 - Kanji
+- kana = Hiragana + Katakana
 
 Hiragana + Katankana have both: 46 basic characters, or 71 including diacritics
 Kanji has 2136 characters (But one needs about 1300 to understand most)
