@@ -31,3 +31,10 @@ Kanji has 2136 characters (But one needs about 1300 to understand most)
 
 # Sites
 - https://www.busuu.com/en/japanese/alphabet
+
+
+# Hiragana Culture References
+
+### ゴ (go)
+![image](https://user-images.githubusercontent.com/85735034/189944222-cc0ace27-ac0f-4181-9f1d-947a914fd0a2.png)
+
