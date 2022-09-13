@@ -11,7 +11,7 @@ https://jisho.org
 |小|small - little|
 |日|day - sun|(nichi)
 |月|moon - moon light - month|
-|雨|rain - 
+|雨|rain
 |自|oneself|
 |目|eye - sight - vision - look - insight - experience
 |生|life - birth - genuine|
