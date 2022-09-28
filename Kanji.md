@@ -69,3 +69,4 @@ https://jisho.org
 
 
 - https://en.wikipedia.org/wiki/List_of_kanji_by_stroke_count
+- https://www.thejapanesepage.com/node/kanji/dictionaryframe.htm
