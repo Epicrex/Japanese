@@ -4,6 +4,8 @@
 |女|**woman** - female - female sex(gender) - female lover - girlfriend - mistress|おんな (o'n'na)
 |男|**male** - man - guy|(otoko)
 |子|child - young - young woman|こ (ko)
+|母|mother
+|父|father
 |人|human being - person - people - man|
 |手|hand|
 |顔|face - expression
@@ -16,12 +18,13 @@
 |左|left|
 |右|right|
 |長|long - leader - senior - superior - elder - chief - head|
-|---|---|---
-|分|minute - segment - share - degree|
+|TIME|---|---
+|分|minute - segment - share - degree
 |時|hour - **time**
 |日|**day** - sun|(nichi)
-|月|moon - moon light - month|
+|月|month - moon - moon light
 |年|year
+|間|time frame - span of time
 |今|now - soon - immediately
 |今日|today
 |今月|this month
@@ -29,11 +32,14 @@
 |---|---|---
 |雨|rain
 |水|water|
+|川|river - stream
 |火|**fire** - flame - blaze|
 |金|gold - golden - money - excellent - prosperous - (metal)|
-|地|ground - earth - land - soil - dirt - mud - clay|
+|地 / 土|ground - earth - land - soil - dirt - mud - clay|
 |山|mountain - hill - climax - peak - crown|
+|木|tree - wood
 |森|forest - woods (森 = mori, not to be confused with the latin mori which means death)
+|空|sky - empty - void - vacum
 |---|---|---
 |自|oneself|
 |目|eye - class - experience - insight - care - favour - eye sight - vision - look
@@ -71,3 +77,4 @@
 - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.uni-passau.de/fileadmin/dokumente/hsg/nippon/Skripte/kanjibookjlptn5.pdf
 - https://tangorin.com
 - https://jisho.org
+- https://www.fluentin3months.com/jlpt-n5-kanji/
