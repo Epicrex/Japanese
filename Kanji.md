@@ -66,3 +66,6 @@ https://jisho.org
 |十|ten|じゅう (juu)
 |---|---|---
 ||
+
+
+- https://en.wikipedia.org/wiki/List_of_kanji_by_stroke_count
