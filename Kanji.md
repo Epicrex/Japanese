@@ -1,5 +1,3 @@
-https://tangorin.com
-https://jisho.org
 
 |Kanji|English|Hiragana + Romanji
 |:-:|:-:|:-:
@@ -70,3 +68,6 @@ https://jisho.org
 
 - https://en.wikipedia.org/wiki/List_of_kanji_by_stroke_count
 - https://www.thejapanesepage.com/node/kanji/dictionaryframe.htm
+- chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.uni-passau.de/fileadmin/dokumente/hsg/nippon/Skripte/kanjibookjlptn5.pdf
+- https://tangorin.com
+- https://jisho.org
