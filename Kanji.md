@@ -35,6 +35,7 @@ https://jisho.org
 |金|gold - golden - money - excellent - prosperous - (metal)|
 |地|ground - earth - land - soil - dirt - mud - clay|
 |山|mountain - hill - climax - peak - crown|
+|森|forest - woods
 |---|---|---
 |自|oneself|
 |目|eye - class - experience - insight - care - favour - eye sight - vision - look
@@ -50,6 +51,7 @@ https://jisho.org
 |食|**eat** - food - meal|
 |禁|ban - forbid - prohibition|
 |同|same - agree - equal
+|死|death - die - decease - death penalty
 |NUMBERS|---|---
 |一|one|いち (ichi)
 |二|two|に (ni)
