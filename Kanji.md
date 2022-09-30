@@ -81,13 +81,36 @@
 
 
 sidney in katakana:
-1. シドニー (shidonii))
+1. シドニー (shidonii)
 
 sidney in hiragana:
-1. しどにい
+1. しどにい (shidonii)
 
 sidney in kanji:
 1. 鵄帑仁 |kite - horned owls - wine cups - black kite/ chi/ hummanity - virtue - benevolence - man
-2. 史動二依 |history - chonicle/ move - motion - change - confusion
-3. 志土仁 |intention - plan - aspire - gift - kindness/ ground - earth - land - soil - dirt - mud - clay/ hummanity - virtue - benevolence - man
-4. 雪特尼  |snow/ special - particularly/ nun - bitch
+2. 史動二依 |
+3. 志土仁 |
+4. 雪特尼 |snow/ special - particularly/ nun - bitch
+5. 嗣努尼 |
+
+
+
+Kanji attempt 1:
+史動二依
+(history, chonicle) - (move, motion, change, confusion) - (two) - (reliant, depend on, consequently)
+
+Kanji attempt 2:
+鵄帑仁
+(kite, horned owls, wine cups, black kite) - (chinese character for soem reason) - (hummanity, virtue, benevolence, man)
+
+Kanji attempt 3:
+志土仁
+(intention, plan, aspire, gift, kindness) - (ground, earth, land, soil, dirt, mud, clay) - (hummanity, virtue, benevolence, man)
+
+Kanji attempt 4:
+雪特尼
+(snow) - (special, particularly) - (nun, bitch)
+
+Kanji attempt 5:
+嗣努尼
+(to connect, inherit, descendants, succeed) - (never, by no means, diligent) - (nun, bitch)
