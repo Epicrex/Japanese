@@ -39,7 +39,7 @@ First part, second part. Third part!
 |… |Ellipsis|There can be as few as two ‥ or as many as six or more …… . They can symbolize the passing of time, silence, or a pause. They also convey silent emotion, which you'll recognize if you read a lot of anime and manga. Also used to symbolize long vowels or an omission or missing content
 |゛ |Tenten/ Dakuten|Hiragana voiced alphabet: (k->g) がぎぐげご - (s->z) ざじずぜぞ - (t->d) だぢづでど - (h->b) ばびぶべぼ
 |゜|Maru/ Handakuten|Hiragana voiced alphabet: (h->p) ぱぴぷぺぽ
-|っ|Small Tsu/ Double Consonant|
+|っ / ッ|Small Tsu (Hiragana - つ/ Katakana ツ)/ Double Consonant|Not pronounced "tsu". If you see it in the middle of a word, before a consonant, it means that the consonant after it is a "double" consonant. If you see it at the end of a word then it's a glottal stop. That means it's kind of like a constricted sound in your throat.
 |ー |Long Vowel Mark|
 |々|Iteration Mark|
 |￥|Yen Symbol|
