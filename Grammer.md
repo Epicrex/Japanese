@@ -1,4 +1,5 @@
 # Particles
+の
 
 # Spacing
 In japanese everything looks niecly spaced.
@@ -25,19 +26,19 @@ First part, second part. Third part!
 |Japanese|English|Name|Usage
 |:-:|:-:|:-:|:-:
 |。|(.) Period|Same
-|、|(,) Comma|You can stick it pretty much wherever you want a break or pause in your sentence.
+|、|(,) Comma|Same + You can stick it pretty much wherever you want a break or pause in your sentence.
 |「」|('') Single Quotation Marks|Japanese single quotes are used where double quotes are used. And more common quote type
 |『』|("") Double Quotation Marks|Japanese double quotes are used for quoting text withing a quote. The less common quote type
 |〜|(~) Wave Dash|Used like a straight dach. For example: 3 - 4 apples. But it has more uses like: Drawing out and changing the pitch of a vowel sound, showing where something is from, and marking subtitles.
 |・|(·) Interpunct|Used to break up words that go together. You see this most often when you have multiple words written in katakana, like foreign names. And to break up lists, act as decimal points when writing numbers in kanji.
-|？ |(?) Question Mark|
-|！|(!) Exclamation Point|
-|（）|(()) Parentheses|
-|【】|([]) Thick/ Square Brackets|
-|｛｝|({}) Brackets|
-|… |(...) Ellipsis|
-|゛ |Tenten/ Dakuten|
-|゜|Maru/ Handakuten|
+|？ |(?) Question Mark|To show that you're making an inquiry, `formal writing uses か` as a question mark and `casual writing uses ？ `
+|！|(!) Exclamation Point|Same + not used in formal japanese
+|（）|(()) Parentheses|Same + Used to show the kana readings of kanji words
+|【】|([]) Thick/ Square Brackets|Can really be used for anything: Showing emphasis, listing items, or just making your brackets stand out more
+|｛｝|({}) Brackets|Uncommon. Used for math. There are 10 other bracket types in japanese
+|… |Ellipsis|There can be as few as two ‥ or as many as six or more …… . They can symbolize the passing of time, silence, or a pause. They also convey silent emotion, which you'll recognize if you read a lot of anime and manga. Also used to symbolize long vowels or an omission or missing content
+|゛ |Tenten/ Dakuten|Hiragana voiced alphabet: (k->g) がぎぐげご - (s->z) ざじずぜぞ - (t->d) だぢづでど - (h->b) ばびぶべぼ
+|゜|Maru/ Handakuten|Hiragana voiced alphabet: (h->p) ぱぴぷぺぽ
 |っ|Small Tsu/ Double Consonant|
 |ー |Long Vowel Mark|
 |々|Iteration Mark|
