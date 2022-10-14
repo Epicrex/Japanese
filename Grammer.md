@@ -23,7 +23,7 @@ First part, second part. Third part!
 
 # Punctuation
 
-|Japanese|English|Name|Usage
+|Japanese|English|Usage|Example
 |:-:|:-:|:-:|:-:
 |。|(.) Period|Same
 |、|(,) Comma|Same + You can stick it pretty much wherever you want a break or pause in your sentence.
@@ -40,8 +40,9 @@ First part, second part. Third part!
 |゛ |Tenten/ Dakuten|Hiragana voiced alphabet: (k->g) がぎぐげご - (s->z) ざじずぜぞ - (t->d) だぢづでど - (h->b) ばびぶべぼ
 |゜|Maru/ Handakuten|Hiragana voiced alphabet: (h->p) ぱぴぷぺぽ
 |っ / ッ|Small Tsu (Hiragana - つ/ Katakana ツ)/ Double Consonant|Not pronounced "tsu". If you see it in the middle of a word, before a consonant, it means that the consonant after it is a "double" consonant. If you see it at the end of a word then it's a glottal stop. That means it's kind of like a constricted sound in your throat.
-|ー |Long Vowel Mark|
-|々|Iteration Mark|
+|ー |Long Vowel Mark|Long vowel marks mark long vowels. So, instead of スウパア, you'd write スーパー. You'll mostly see these in katakana, hardly ever in hiragana. The only time you'll see them with hiragana is at the end of a sentence or after a drawn out particle or interjection. 
+|々|Iteration Mark|Or also called "repeater" i.e. any kanji it follows is repeated.|人々(person) -> ひとびと, 代々木(yoyogi[Park]) -> よよぎ
+|ヶ||This may look like a small katakana ケ (and it is), but it's also used as a replacement for the counter, especially in months|５ヶ月(five months) -> ごかげつ
 |￥|Yen Symbol|
 |〒/〶|Postal Mark|
 ||||
