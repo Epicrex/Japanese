@@ -43,7 +43,7 @@
 |Maximum HP|さいだいHP|さいだい (最大) biggest, largest, maximum<br>最 (さい) the most, the extreme<br>最 (さい) (kanji) utmost, most, extreme<br>大 (だい) (kanji) large 
 |Maximum HP|さいだいMP|さいだい (最大) biggest, largest, maximum<br>最 (さい) the most, the extreme<br>最 (さい) (kanji) utmost, most, extreme<br>大 (だい) (kanji) large 
 |Strength|ちから|ちから (力) force, strength, might<br>力 (kanji) power
-|Resilience|みのまもり|み (実) fruit<br>まもり (守り) protection, defense, defence<br>守 (kanji) guard, protect, defend, obey
+|Resilience|みのまもり|み (実) fruit ???<br>まもり (守り) protection, defense, defence<br>守 (kanji) guard, protect, defend, obey
 |Deftness|きようさ|
 |Charm|みりよく|みりょく (魅力) charm, glamor, attraction, appeal<br>力 (kanji) power<br>魅 (kanji) charm, bewitch
 |-|-|-
