@@ -61,6 +61,18 @@
 |:-:|:-:
 |Emma|エマ
 
+# Name Suffix
+https://www.busuu.com/en/japanese/honorifics
+
+|Suffix/ Prefix|Example|
+|:-:|:-:
+|-san|エマさん
+|-sama|エマさま
+|-kun|エマくん
+|-chan|エマちゃん
+|-shi|エマし
+|o-/ go-|おエマ/ ごエマ
+
 The particle “wo”(を), usually pronounced “o”, marks the object of the verb, that is, the person or thing that the action is done to.
 
 
