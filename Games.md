@@ -50,9 +50,16 @@
 |Heal All|まんたん|
 |Exit Game|ゲームを終了|ゲーム game<br>終了end, close, termination<br>終 (kanji) end, finish
 |Return to Title Screen|タイトルへもどる|タイトル title<br>もどる (戻る) to turn back<br>戻 (kanji) return, revert, go backwards
+|Yes|はい|
+|No|いいえ
 
 
 
+# Names
+
+|Eng|Jap
+|:-:|:-:
+|Emma|エマ
 
 The particle “wo”(を), usually pronounced “o”, marks the object of the verb, that is, the person or thing that the action is done to.
 
