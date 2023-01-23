@@ -55,7 +55,7 @@
 
 
 
-# Names
+### Names
 
 |Eng|Jap
 |:-:|:-:
@@ -75,6 +75,22 @@ https://www.busuu.com/en/japanese/honorifics
 
 The particle “wo”(を), usually pronounced “o”, marks the object of the verb, that is, the person or thing that the action is done to.
 
+# Rocket League
+Launch Options = ```-Language=JPN```
+|Jap|Eng|Broken down
+|:-:|:-:|:-:
+|プレイ|Play
+|終了|Quit|終了 (しゅうりょう)<br>終 (kanji) end, finish<br>了 (kanji) complete, finish
+|パーティ作成|Create Party|パーティparty<br>作成 (さくせい) making
+|オンライン|Online
+|オフライン|Offline
+|???遠|Away|遠 distant<br>
+|招待|Invite
+|カジュアル|Casual|
+|コソペテイテイブ|Competitive|
+|2対2|2v2/ 2 on 2|対 (kanji) versus, opposite<br>対 (つい) pair, couple, set
+|全敗|Matches|全敗 (ぜんぱい)
+|戻る|Back|戻る (もどる)<br> (kanji)戻 return, revert, go backwards
 
 # Vocab
 
