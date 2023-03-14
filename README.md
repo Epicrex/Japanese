@@ -1,3 +1,3 @@
-# Japanese
+# Hi
 
-Head over to the wiki tab or click [here](https://github.com/Epicrex/Japanese-Learning/wiki/Japan).
+-> Head on over to the Wiki tab or click [here](https://github.com/Epicrex/Japanese-Learning/wiki/Japan)
